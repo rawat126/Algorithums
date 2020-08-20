@@ -17,11 +17,14 @@ Steps :
 ==================================
 - Select the Subject image for operation
 - Use the below formula for output Dimention Selection 
+
 <p align = 'center'>
 <img src = "https://miro.medium.com/max/258/1*HoOLVDujrz1TKJJ6ijR6Bw.gif", width = 400>  
 </p>
+
 - Decide the appropriate kernel for better output
 - Perform the element wise multiplication of every block as shown : 
+
 <p align = 'center'>
 <img src = "https://miro.medium.com/max/2560/1*ciDgQEjViWLnCbmX-EeSrA.gif", width = 640>  
 </p>
@@ -30,5 +33,5 @@ Conclusion :
 ===================================
 The achived results can be shown Below:
 <p align = 'center'>
-<img src = "https://raw.githubusercontent.com/rawat126/Algorithums/master/Edge%20Detection%20(Convolution)/output.jpg", width = 700>  
+<img src = "https://raw.githubusercontent.com/rawat126/Algorithums/master/Edge%20Detection%20(Convolution)/output.jpg", width = 500>  
 </p>
