@@ -33,5 +33,5 @@ Conclusion :
 ===================================
 The achived results can be shown Below:
 <p align = 'center'>
-<img src = "https://raw.githubusercontent.com/rawat126/Algorithums/master/Edge%20Detection%20(Convolution)/output.jpg", width = 500>  
+<img src = "https://raw.githubusercontent.com/rawat126/Algorithums/master/Edge%20Detection%20(Convolution)/edge_Detection_test.jpg", width = 600>  
 </p>
